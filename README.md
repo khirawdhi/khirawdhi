@@ -17,4 +17,4 @@ Building practical security tools and sharing applied security research.
 - Cloud Security Research
 
 ## Connect
-LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/khirawdhi/)
+LinkedIn: https://www.linkedin.com/in/khirawdhi/
