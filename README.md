@@ -1,20 +1,46 @@
-# Khirawdhi Ray
+# Hi, I'm Khirawdhi Ray 👋
 
-Security Engineer | Cloud Security | Threat Modeling | AI Security  
+Security Engineer focused on **Cloud Security, Threat Modeling, and AI Security**.
 
-Building practical security tools and sharing applied security research.
+I build practical security tools, threat modeling frameworks, and research to help teams design secure systems.
+
+---
 
 ## Areas of Focus
+
 - Cloud Security (Azure, AWS, GCP)
-- Threat Modeling
+- Threat Modeling & Security Architecture
 - AI / LLM Security
 - Application Security
-- Security Architecture
+- DevSecOps
 
-## Projects
-- Zero-to-Hero Threat Modeling Playbook
-- AI Threat Modeling Framework
-- Cloud Security Research
+---
 
+## Current Projects
+
+### Zero-to-Hero Threat Modeling Playbook
+A practical framework for threat modeling across:
+
+- Cloud architectures (Azure, AWS, GCP)
+- AI / LLM systems
+- A2A and B2B platforms
+- Secure architecture design
+
+Repository coming soon.
+
+---
+
+## Security Research
+
+I write about:
+
+- Threat Modeling as Architecture
+- AI Security Risks
+- Cloud Security Patterns
+- Secure System Design
+
+---
 ## Connect
+
 LinkedIn: https://www.linkedin.com/in/khirawdhi/
+Website: https://raykhira.com/
