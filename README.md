@@ -1,8 +1,8 @@
 # Hi, I'm Khirawdhi Ray 👋
 
-Security Engineer focused on **Cloud Security, Threat Modeling, and AI Security**.
+Security Engineer focused on Cloud Security, Threat Modeling, and AI Security.
 
-I build practical security tools, threat modeling frameworks, and research to help teams design secure systems.
+I design security architectures, build practical security tools, and publish research to help teams build secure cloud and AI systems.
 
 ---
 
@@ -26,7 +26,16 @@ A practical framework for threat modeling across:
 - A2A and B2B platforms
 - Secure architecture design
 
-Repository coming soon.
+Repository: https://github.com/khirawdhi/zero-to-hero-threat-model
+
+---
+
+## Tools & Technologies
+
+- Cloud: Azure, AWS, GCP
+- Security: Threat Modeling, STRIDE, Risk Modeling
+- DevSecOps: CI/CD Security, Container Security
+- Languages: Python
 
 ---
 
