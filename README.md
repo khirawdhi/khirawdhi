@@ -1,6 +1,6 @@
 # Hi, I'm Khirawdhi Ray 👋
 
-Security Engineer focused on Cloud Security, Threat Modeling, and AI Security.
+Security Engineer specializing in Cloud Security, Threat Modeling, and AI Security.
 
 I design security architectures, build practical security tools, and publish research to help teams build secure cloud and AI systems.
 
