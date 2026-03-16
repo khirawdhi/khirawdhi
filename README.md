@@ -1,4 +1,4 @@
-# Hi, I'm Khirawdhi Ray 👋
+# Hi, I'm Khirawdhi Tanaya Ray 👋
 
 Security Engineer specializing in Cloud Security, Threat Modeling, and AI Security.
 
