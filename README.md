@@ -1,56 +1,68 @@
 # Hi, I'm Khirawdhi Ray 👋
 
-Security Engineer specializing in Cloud Security, Threat Modeling, and AI Security.
+I design **secure-by-design architectures** for cloud-native, AI-driven, and distributed systems.
 
-I design security architectures, build practical security tools, and publish research to help teams build secure cloud and AI systems.
-
----
-
-## Areas of Focus
-
-- Cloud Security (Azure, AWS, GCP)
-- Threat Modeling & Security Architecture
-- AI / LLM Security
-- Application Security
-- DevSecOps
+My focus is not on tools but on **how systems should be designed so they don’t break in the first place**.
 
 ---
 
-## Current Projects
+## What I Work On
+
+* Security Architecture (trust boundaries, system design, identity models)
+* Threat Modeling as an architectural discipline (DFD + STRIDE applied to real systems)
+* AI / LLM Security (RAG pipelines, agents, tool execution risks)
+* Service-to-Service (A2A) trust models (OAuth, mTLS, workload identity)
+* Software Supply Chain Security (CI/CD, dependencies, artifact integrity)
+
+---
+
+## Flagship Work
 
 ### Zero-to-Hero Threat Modeling Playbook
-A practical framework for threat modeling across:
 
-- Cloud architectures (Azure, AWS, GCP)
-- AI / LLM systems
-- A2A and B2B platforms
-- Secure architecture design
+https://github.com/khirawdhi/zero-to-hero-threat-model
 
-Repository: https://github.com/khirawdhi/zero-to-hero-threat-model
+A pattern-first security architecture playbook covering:
 
----
+* AI systems (RAG + agents)
+* Service-to-service trust models (OAuth vs mTLS)
+* Software supply chain (CI/CD, dependencies, artifacts)
+* Cloud-native architectures
 
-## Tools & Technologies
-
-- Cloud: Azure, AWS, GCP
-- Security: Threat Modeling, STRIDE, Risk Modeling
-- DevSecOps: CI/CD Security, Container Security
-- Languages: Python
+This repository focuses on **how modern systems should be designed securely not just analyzed after the fact**.
 
 ---
 
-## Security Research
+## What I Believe
+
+* Security failures happen at **trust boundaries**, not components
+* Threat modeling should drive **architecture decisions**, not documentation
+* AI systems must treat the LLM as an **untrusted component**
+* If your architecture is wrong, **controls won’t save you**
+
+---
+
+## Technical Foundations
+
+* Cloud Platforms: AWS, Azure, GCP
+* Security: Threat Modeling, STRIDE, Identity & Access Design
+* DevSecOps: CI/CD Security, Container Security
+* Languages: Python
+
+---
+
+## Research & Writing
 
 I write about:
 
-- Threat Modeling as Architecture
-- AI Security Risks
-- Cloud Security Patterns
-- Secure System Design
+* Threat Modeling as Architecture
+* AI Security Risks (RAG, agents, tool misuse)
+* Service-to-Service Trust Models
+* Secure System Design Patterns
 
 ---
+
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/khirawdhi/
-
-Website: https://raykhira.com/
+* LinkedIn: https://www.linkedin.com/in/khirawdhi/
+* Website: https://raykhira.com/
