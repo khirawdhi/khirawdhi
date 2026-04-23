@@ -4,6 +4,8 @@ I design **secure-by-design architectures** for cloud-native, AI-driven, and dis
 
 My focus is not on tools but on **how systems should be designed so they don’t break in the first place**.
 
+Senior Product Security Engineer focused on designing secure distributed systems at scale.
+
 ---
 
 ## What I Work On
@@ -22,7 +24,7 @@ My focus is not on tools but on **how systems should be designed so they don’t
 
 https://github.com/khirawdhi/zero-to-hero-threat-model
 
-A pattern-first security architecture playbook covering:
+A practical security architecture playbook used to model trust boundaries, attack paths, and control strategies in modern distributed systems.
 
 * AI systems (RAG + agents)
 * Service-to-service trust models (OAuth vs mTLS)
@@ -38,7 +40,7 @@ This repository focuses on **how modern systems should be designed securely not 
 * Security failures happen at **trust boundaries**, not components
 * Threat modeling should drive **architecture decisions**, not documentation
 * AI systems must treat the LLM as an **untrusted component**
-* If your architecture is wrong, **controls won’t save you**
+* If your architecture is wrong, **controls will only delay failure, not prevent it**
 
 ---
 
