@@ -4,7 +4,7 @@ I design **secure-by-design architectures** for cloud-native, AI-driven, and dis
 
 My focus is not on tools but on **how systems should be designed so they don’t break in the first place**.
 
-Senior Product Security Engineer focused on designing secure distributed systems at scale.
+Product Security Architect focused on designing secure distributed systems at scale.
 
 ---
 
