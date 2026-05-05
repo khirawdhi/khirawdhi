@@ -1,14 +1,14 @@
 # Hi, I'm Khirawdhi Ray 👋
 
-I design **secure-by-design architectures** for cloud-native, AI-driven, and distributed systems.
+I design **secure architectures for cloud-native, AI-driven, and distributed systems**.
 
-My focus is not on tools but on **how systems should be designed so they don’t break in the first place**.
+My focus is not on tools, but on **designing systems that fail safely — or don’t fail at all**.
 
 ---
 
 ## What I Work On
 
-* Security Architecture (trust boundaries, system design, identity models)
+* Security Architecture (trust boundaries, system design, identity-first models)
 * Threat Modeling as an architectural discipline (DFD + STRIDE applied to real systems)
 * AI / LLM Security (RAG pipelines, agents, tool execution risks)
 * Service-to-Service (A2A) trust models (OAuth, mTLS, workload identity)
@@ -18,18 +18,37 @@ My focus is not on tools but on **how systems should be designed so they don’t
 
 ## Flagship Work
 
+### Secure Inference Architecture Blueprint
+
+https://github.com/khirawdhi/secure-inference-architecture-blueprint
+
+A practical security architecture blueprint for AI inference systems.
+
+Covers:
+
+* Trust boundaries across input → retrieval → reasoning → execution → output
+* Attack paths (prompt injection, retrieval poisoning, tool abuse, data leakage)
+* Layered controls for real-world AI systems (RAG and agent-based architectures)
+
+Core idea:
+
+> AI security is not a model problem.
+> It is an inference architecture problem.
+
+---
+
 ### Zero-to-Hero Threat Modeling Playbook
 
 https://github.com/khirawdhi/zero-to-hero-threat-model
 
-A practical security architecture playbook used to model trust boundaries, attack paths, and control strategies in modern distributed systems.
+A practical playbook for modeling trust boundaries, attack paths, and control strategies in modern distributed systems.
+
+Covers:
 
 * AI systems (RAG + agents)
 * Service-to-service trust models (OAuth vs mTLS)
 * Software supply chain (CI/CD, dependencies, artifacts)
 * Cloud-native architectures
-
-This repository focuses on **how modern systems should be designed securely not just analyzed after the fact**.
 
 ---
 
@@ -38,7 +57,7 @@ This repository focuses on **how modern systems should be designed securely not 
 * Security failures happen at **trust boundaries**, not components
 * Threat modeling should drive **architecture decisions**, not documentation
 * AI systems must treat the LLM as an **untrusted component**
-* If your architecture is wrong, **controls will only delay failure, not prevent it**
+* If the architecture is wrong, **controls only delay failure — not prevent it**
 
 ---
 
