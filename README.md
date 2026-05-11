@@ -2,7 +2,7 @@
 
 I design **secure architectures for cloud-native, AI-driven, and distributed systems**.
 
-My focus is not on tools, but on **designing systems that fail safely — or don’t fail at all**.
+My focus is not on tools, but on **designing systems that fail safely or don’t fail at all**.
 
 ---
 
