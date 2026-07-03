@@ -8,7 +8,7 @@ Security Architect focused on cloud-native, AI-driven, and distributed systems.
 - AI / LLM Security
 - Distributed Systems
 - Software Supply Chain Security
-- 
+
 ---
 
 ## Featured Projects
