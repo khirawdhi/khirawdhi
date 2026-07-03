@@ -2,24 +2,20 @@
 
 Security Architect specializing in cloud-native, AI, and distributed systems.
 
-**Focus**
+## Focus
+
 - Security Architecture
 - Threat Modeling
 - AI / LLM Security
-- Distributed Systems
+- Product Security
 - Software Supply Chain Security
 
 ## Featured Projects
 
-### Secure Inference Architecture Blueprint
-Security architecture for AI inference systems.
-
-🔗 https://github.com/khirawdhi/secure-inference-architecture-blueprint
-
-### Zero-to-Hero Threat Modeling Playbook
-Practical threat modeling for modern distributed systems.
-
-🔗 https://github.com/khirawdhi/zero-to-hero-threat-model
+- **ArchSec Reviewer** – AI-assisted security architecture review
+- **Secure Inference Architecture Blueprint** – Secure-by-design AI inference
+- **Zero-to-Hero Threat Modeling** – Practical threat modeling
+- **LinVulnScan** – Linux privilege escalation scanner
 
 ## Connect
 
