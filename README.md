@@ -24,4 +24,5 @@ Practical threat modeling for modern distributed systems.
 ## Connect
 
 Website: https://raykhira.com
+
 LinkedIn: https://linkedin.com/in/khirawdhi
