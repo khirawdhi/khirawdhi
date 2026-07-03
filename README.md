@@ -12,10 +12,10 @@ Security Architect specializing in cloud-native, AI, and distributed systems.
 
 ## Featured Projects
 
-- **ArchSec Reviewer** – AI-assisted security architecture review
-- **Secure Inference Architecture Blueprint** – Secure-by-design AI inference
-- **Zero-to-Hero Threat Modeling** – Practical threat modeling
-- **LinVulnScan** – Linux privilege escalation scanner
+- **ArchSec Reviewer** - AI-assisted security architecture review
+- **Secure Inference Architecture Blueprint** - Secure-by-design AI inference
+- **Zero-to-Hero Threat Modeling** - Practical threat modeling
+- **LinVulnScan** - Linux privilege escalation scanner
 
 ## Connect
 
